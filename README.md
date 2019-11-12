@@ -2,7 +2,7 @@
 
 This will blink the led every 1s. 
 
-The clock main core frequency is 50Mhz. 
+The main core frequency is 50Mhz. 
 The TIM2_IRQHandler is invoked every 1s. The reason are the following:
 
 ******************************************************************************************************************************************
